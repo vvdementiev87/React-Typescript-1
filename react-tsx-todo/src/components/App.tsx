@@ -1,6 +1,5 @@
-const App=()=>{
-    render <div />
+const App = () => {
+  return <div />;
 };
 
-export {App};
-
+export { App };
